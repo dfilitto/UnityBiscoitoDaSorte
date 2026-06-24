@@ -1,5 +1,5 @@
 ![](https://github.com/dfilitto/UnityBiscoitoDaSorte/blob/main/capa_biscoiteSorte.jpg)
-# UnityBiscoitoDaSorte
+# Unity Biscoito Da Sorte Digital
 Aprenda a usar a tecnologia que é o presente e o futuro das UIs na Unity! Nesta minissérie gratuita de 3 vídeos, você vai aprender a dominar o Unity UI Toolkit construindo um projeto prático, divertido e direto ao ponto: o Biscoito da Sorte Digital.
 
 Nele, o usuário clica em um botão customizado (o biscoito) e o sistema sorteia dinamicamente uma frase motivacional ou divertida na tela. É o projeto perfeito para quem quer entender o fluxo de trabalho moderno de UI sem complicação!
